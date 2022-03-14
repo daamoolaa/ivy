@@ -13,4 +13,5 @@ Statistical functions
    :caption: Statistical functions
 
    statistical_functions/min.rst
+   statistical_functions/sum.rst
 
